@@ -12,3 +12,4 @@ for sklep,rzeczy in lista_zakupów.items():
 print(f"W sumie kupuję {liczba_produktów} produktów.")
 
 print ("Nowe zmiany do githuba.")
+print ("Więcej zmian do githuba.")
